@@ -1,0 +1,15 @@
+.foto img {
+    width:400px;
+    height:500px;
+}
+.panasonic img{
+height:400px;
+    transform:rotate(90deg);
+}
+.fot1 img {
+    width:500px;
+}
+.braun img {
+    transform:rotate(90deg);
+    height:400px;
+}
