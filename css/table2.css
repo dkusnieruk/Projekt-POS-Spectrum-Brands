@@ -14,3 +14,6 @@ header img {
     top:-1px;
     left:-1px;
 }
+table li {
+    text-align:left;
+}
