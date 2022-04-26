@@ -1,7 +1,7 @@
 body{ 
     background-image: url(../images/top.jpg);
     width:auto;
-    height:auto;
+    height:767px;
     text-align:center;
     overflow:auto;
 }
